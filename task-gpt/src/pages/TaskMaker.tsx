@@ -1,7 +1,7 @@
-import { IonButton, IonContent, IonHeader, IonIcon, IonInput, IonItem, IonLabel, IonPage, IonProgressBar, IonTextarea, IonTitle, IonToolbar } from '@ionic/react';
-import { addOutline, clipboard, clipboardOutline, copy, send, trash } from 'ionicons/icons';
+import { IonButton, IonContent, IonHeader, IonIcon, IonItem, IonLabel, IonPage, IonProgressBar, IonTextarea, IonTitle, IonToolbar } from '@ionic/react';
+import { addOutline, clipboardOutline, send, trash } from 'ionicons/icons';
 import { useEffect, useState } from 'react';
-import {sendRequest} from '../components/api/client';
+import { sendRequest } from '../components/api/client';
 import './TaskMaker.css';
 
 class TaskData {

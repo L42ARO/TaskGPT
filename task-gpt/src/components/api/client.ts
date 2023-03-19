@@ -1,4 +1,4 @@
-const url = 'localhost:3000/api/v1/tasks';
+//const url = 'localhost:3000/api/v1/tasks';
 //Create default class for requests, they will all return status of request and data
 class ResponseTemplate {
     constructor(public status: number, public data: any, public message:string) {}
