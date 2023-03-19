@@ -1,0 +1,10 @@
+{
+    "apps":
+    [
+        {
+            "appId": "82172987",
+            "root": "task-gpt",
+            "dependencyInstallCommand": "npm install"
+        }
+    ]
+}
