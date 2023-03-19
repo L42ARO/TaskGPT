@@ -4,7 +4,7 @@
         {
             "appId": "82172987",
             "root": "task-gpt",
-            "dependencyInstallCommand": "npm install"
+            "dependencyInstallCommand": "npm ci --no-optional --quiet"
         }
     ]
 }
