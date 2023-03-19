@@ -1,0 +1,8 @@
+{
+  "name": "TaskGPT",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "82172987"
+}
